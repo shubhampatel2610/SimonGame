@@ -62,9 +62,8 @@ function checkAnswer(currentLevel) {
             }, 1000);
 
         }
-        console.log("right");
+        
     } else {
-        console.log("wrong");
 
         playSound("wrong"); // audio play
 
